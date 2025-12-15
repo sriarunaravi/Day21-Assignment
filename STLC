@@ -1,0 +1,7 @@
+The process of testing a software in a well planned and systematic way is known as software testing life cycle(STLC).
+Requirements Analysis is done in this phase, software requirements are reviewed by test team.
+Test Planning, Test analysis and Test design is done in this phase. Test team reviews design documents and prepares the test plan.
+Test construction and verification is done in this phase, testers write test cases and finalizes test plan.
+Test Execution and bug reporting, manual testing, automation testing is done, defects found are reported. Re-testing and regression testing is also done in this phase.
+Final testing and implementation is done in this phase and final test report is prepared.
+Maintenance testing is done in this phase.
