@@ -1,0 +1,16 @@
+Principles of Testing:
+The Principles of Testing guide the overall approach to software testing and help ensure that testing is thorough,efficient and effective.Here are the key principles:
+1.Testing Shows the Presence of Defects
+Testing can only prove the existence of bugs or issues in software,not their absence.If no defects are found,it doesn't necessarily mean there are no defects.it just means none were detected.
+2.Exhaustive Testing is Impossible
+It’s impossible to test all combinations of inputs and scenarios in most cases.Instead,we aim for effective testing with a risk-based approach,focusing on the most important and high-risk areas.
+3.Early Testing
+The earlier you begin testing in the development cycle,the cheaper and more efficient it is to fix bugs.Testing should start as soon as possible in the development process.
+4.Defect Clustering
+A small number of modules or components often contain the majority of defects.Focused testing on these areas can help find the most significant issues.
+5.Pesticide Paradox
+Running the same set of tests repeatedly will eventually stop finding new defects.To improve the effectiveness of testing,the tests need to be updated and expanded regularly.
+6.Testing is Context-Dependent
+Testing methods and approaches should be adapted to the context of the project.For example,testing a mobile app may require different approaches than testing a web-based enterprise application.
+7.Absence of Errors Fallacy
+Finding and fixing bugs is important,but if the software does not meet the user's needs or requirements,it is still not useful.Testing needs to ensure the software solves the right problem.
