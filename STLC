@@ -5,3 +5,21 @@ Test construction and verification is done in this phase, testers write test cas
 Test Execution and bug reporting, manual testing, automation testing is done, defects found are reported. Re-testing and regression testing is also done in this phase.
 Final testing and implementation is done in this phase and final test report is prepared.
 Maintenance testing is done in this phase.
+REQUIREMENT ANALYSIS:
+The first step is to understand the project requirements thoroughly. 
+The testing team works with stakeholders to identify and review the requirements for testability and to ensure the right features are being tested.
+TEST PLANNING:
+During this phase,a detailed test plan is created. 
+The test lead defines the strategy,objectives and resources required for testing.This step also includes estimating time,assigning roles,and identifying the tools and technologies needed.
+TESTCASE DEVELOPMENT:
+In this phase,the testing team creates detailed test cases based on the requirements and specifications. 
+These test cases will guide the testers in evaluating whether the software is functioning as expected.
+ENVIRONMENT SETUP:
+The testing environment needs to be prepared,including hardware,software,networks and configurations that mimic the production environment.
+This ensures that testing is conducted under realistic conditions.
+TEST EXECUTION:
+In this phase,the test cases are executed and the results are logged.Testers run the planned tests to identify defects or issues in the software.
+Any issues found are reported back to the development team.
+TEST CYCLE CLOSURE:
+Once the testing is complete,the testing team reviews the results and prepares the test summary report. 
+The team evaluates the test process,the number of defects found and the overall quality of the product.
